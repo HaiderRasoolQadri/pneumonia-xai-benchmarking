@@ -1,1 +1,25 @@
-
+model,filepath,true_label,predicted_label,method,cam_min,cam_max,cam_std
+DenseNet121,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-7978.png,0,1,Grad-CAM,0.0,1.0,0.25829941034317017
+DenseNet121,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-7978.png,0,1,Grad-CAM++,0.27302736043930054,1.0,0.1573847383260727
+DenseNet121,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-7978.png,0,1,Eigen-CAM,0.21223095059394836,1.0,0.1988879293203354
+DenseNet121,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-7978.png,0,1,Score-CAM Top-32,0.1485375463962555,1.0,0.22453300654888153
+MobileNetV2,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-7978.png,0,1,Grad-CAM,0.0,1.0,0.16975092887878418
+MobileNetV2,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-7978.png,0,1,Grad-CAM++,0.03887665644288063,1.0,0.15123237669467926
+MobileNetV2,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-7978.png,0,1,Eigen-CAM,0.035712044686079025,1.0,0.19507186114788055
+MobileNetV2,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-7978.png,0,1,Score-CAM Top-32,0.02069144695997238,1.0,0.24887201189994812
+VGG16,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-7978.png,0,1,Grad-CAM,0.0,1.0,0.3054977357387543
+VGG16,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-7978.png,0,1,Grad-CAM++,0.35433119535446167,1.0,0.1295529305934906
+VGG16,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-7978.png,0,1,Eigen-CAM,0.8988364338874817,1.0,0.021423034369945526
+VGG16,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-7978.png,0,1,Score-CAM Top-32,0.46638351678848267,1.0,0.1470595896244049
+DenseNet121,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-352.png,1,1,Grad-CAM,0.14670611917972565,1.0,0.17842474579811096
+DenseNet121,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-352.png,1,1,Grad-CAM++,0.22919508814811707,1.0,0.18461504578590393
+DenseNet121,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-352.png,1,1,Eigen-CAM,0.11239701509475708,1.0,0.19359712302684784
+DenseNet121,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-352.png,1,1,Score-CAM Top-32,0.047620825469493866,1.0,0.21814867854118347
+MobileNetV2,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-352.png,1,1,Grad-CAM,0.04355916753411293,1.0,0.2003212571144104
+MobileNetV2,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-352.png,1,1,Grad-CAM++,0.03405128791928291,1.0,0.1905321627855301
+MobileNetV2,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-352.png,1,1,Eigen-CAM,0.04968700930476189,1.0,0.22081227600574493
+MobileNetV2,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-352.png,1,1,Score-CAM Top-32,0.022565802559256554,1.0,0.25451403856277466
+VGG16,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-352.png,1,1,Grad-CAM,0.2695256173610687,1.0,0.1813373863697052
+VGG16,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-352.png,1,1,Grad-CAM++,0.46936050057411194,1.0,0.13382843136787415
+VGG16,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-352.png,1,1,Eigen-CAM,0.8907504081726074,1.0,0.0205570999532938
+VGG16,/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-352.png,1,1,Score-CAM Top-32,0.5497133731842041,1.0,0.08942727744579315
