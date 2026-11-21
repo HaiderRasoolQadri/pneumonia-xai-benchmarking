@@ -1,0 +1,2 @@
+model,fold,method,target_layer,image_path,true_label,pneumonia_probability,cam_min,cam_max
+DenseNet121,1,Grad-CAM,relu,/Dataset/PNEUMONIA/person539_virus_1069.jpeg,1,0.9994742274284363,0.03485025465488434,0.9999358057975769

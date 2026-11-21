@@ -1,0 +1,21 @@
+filepath,label,mask_area_fraction,quality_flag
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-7978.png,0,0.35853794642857145,PASS_PRELIMINARY
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-7822.png,0,0.2058155293367347,PASS_PRELIMINARY
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-3576.png,0,0.36013233418367346,PASS_PRELIMINARY
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-9078.png,0,0.3181002869897959,PASS_PRELIMINARY
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-5240.png,0,0.2889827806122449,PASS_PRELIMINARY
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-8942.png,0,0.3369937818877551,PASS_PRELIMINARY
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-1351.png,0,0.2778818558673469,PASS_PRELIMINARY
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-4803.png,0,0.10690369897959184,REVIEW
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-397.png,0,0.3237802933673469,PASS_PRELIMINARY
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-6598.png,0,0.33603714923469385,PASS_PRELIMINARY
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-352.png,1,0.33456234056122447,PASS_PRELIMINARY
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-414.png,1,0.3598134566326531,PASS_PRELIMINARY
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-362.png,1,0.3394252232142857,PASS_PRELIMINARY
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-250.png,1,0.3074976084183674,PASS_PRELIMINARY
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-327.png,1,0.4297672193877551,PASS_PRELIMINARY
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-1077.png,1,0.280452806122449,PASS_PRELIMINARY
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-1002.png,1,0.35214046556122447,PASS_PRELIMINARY
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-875.png,1,0.31090561224489793,PASS_PRELIMINARY
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-179.png,1,0.3272281568877551,PASS_PRELIMINARY
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-345.png,1,0.25815130739795916,PASS_PRELIMINARY

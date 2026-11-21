@@ -1,0 +1,5 @@
+filepath,label,mask_area_fraction,mask_file
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-7978.png,0,0.35853794642857145,/kaggle/working/pneumonia_xai_workspace/experiments/lung_mask_pilot/masks/Normal-7978.nrrd
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/NORMAL/Normal-7822.png,0,0.2058155293367347,/kaggle/working/pneumonia_xai_workspace/experiments/lung_mask_pilot/masks/Normal-7822.nrrd
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-352.png,1,0.33456234056122447,/kaggle/working/pneumonia_xai_workspace/experiments/lung_mask_pilot/masks/Viral Pneumonia-352.nrrd
+/kaggle/input/datasets/haiderrasoolqadri/pneumonia-reproduction-backup/Original Dataset/ExternalDataset/PNEUMONIA/Viral Pneumonia-414.png,1,0.3598134566326531,/kaggle/working/pneumonia_xai_workspace/experiments/lung_mask_pilot/masks/Viral Pneumonia-414.nrrd

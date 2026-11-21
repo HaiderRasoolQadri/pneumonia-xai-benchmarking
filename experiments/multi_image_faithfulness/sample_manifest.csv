@@ -1,0 +1,7 @@
+filepath,label_id
+/Dataset/NORMAL/NORMAL2-IM-0536-0001.jpeg,0
+/Dataset/NORMAL/IM-0299-0001.jpeg,0
+/Dataset/NORMAL/IM-0620-0001-0001.jpeg,0
+/Dataset/PNEUMONIA/person670_virus_1256.jpeg,1
+/Dataset/PNEUMONIA/person525_virus_1046.jpeg,1
+/Dataset/PNEUMONIA/person995_bacteria_2923.jpeg,1
